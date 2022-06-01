@@ -5,5 +5,5 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(message)s', level=logging
 logger = logging.getLogger(__name__)
 logger.info("Test")
 
-print("Go")
+print("Go New changes")
 
