@@ -1,0 +1,17 @@
+[[package]]
+name = "logger"
+version = "1.4"
+description = "Python logging helper"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "4f6d7bad242068a04372692752c2f7878dee46b873bf360ba412542f7c91bfbd"
+
+[metadata.files]
+logger = [
+    {file = "logger-1.4.tar.gz", hash = "sha256:4ecac57133c6376fa215f0fe6b4dc4d60e4d1ad8be005cab4e8a702df682f8b3"},
+]
